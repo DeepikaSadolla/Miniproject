@@ -37,13 +37,7 @@ const About = () => {
         of charge so that students can have a free and uninterrupted learning experience
         </p>
         <p>
-          <h2>Our Services</h2>
-          Dental<br/>
-          Dermatology<br/>
-          ENT<br/>
-          Nutrician<br/>
-          Pediatric<br/>
-          physicaltherapy
+          
         </p>
         
       </Box>
