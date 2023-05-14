@@ -26,20 +26,15 @@ const About = () => {
           },
         }}
       >
-        <Typography variant="h5">Welcome To My Clinic</Typography>
+        <Typography variant="h5">Welcome To  e-Tutoria</Typography>
         <p style={{fontFamily:"Arial"}}>
-        clinic, an organized medical service offering diagnostic, 
-        therapeutic, or preventive outpatient services. Often, the 
-        term covers an entire medical teaching centre, including the 
-        hospital and the outpatient facilities. The medical care offered 
-        by a clinic may or may not be connected with a hospital.The organization
-         of a hospital clinic in general follows that of the inpatient facilities. 
-         Hospital clinics are primarily concerned with acute diseases, and the 
-         physicians in the clinics are usually the same physicians who treat 
-         inpatients in the hospital.A clinic can be a facility where a group of
-          physicians in various specialities work to provide a range of healthcare 
-          services to walk-in patients, in addition to patients with scheduled 
-          appointments.
+       . An LMS that is equipped with user handling functionality, managing courses and course materials, 
+       and maintaining a library have been the focus of the project. It also provides multiple features for
+        different types of users. Some of its features include signing up as an instructor or student where 
+        instructor can create courses, upload materials either as PDFs or Videos and students can enroll 
+        courses of their interest.This project mainly focuses on efficiently building a reliable and secure 
+        LMS that will provide its services free 
+        of charge so that students can have a free and uninterrupted learning experience
         </p>
         <p>
           <h2>Our Services</h2>
