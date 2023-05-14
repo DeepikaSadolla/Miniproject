@@ -36,15 +36,7 @@ const About = () => {
         LMS that will provide its services free 
         of charge so that students can have a free and uninterrupted learning experience
         </p>
-        <p>
-          <h2>Our Services</h2>
-          {/* Dental<br/>
-          Dermatology<br/>
-          ENT<br/>
-          Nutrician<br/>
-          Pediatric<br/>
-          physicaltherapy */}
-        </p>
+        
         
       </Box>
     </Layout>
