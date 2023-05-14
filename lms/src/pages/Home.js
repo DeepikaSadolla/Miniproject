@@ -18,10 +18,10 @@ const Home = () => {
        <h1 className='h11' > e-Tutoria</h1>
        <p className='h12' >A Smart Learning Platform</p>
      <div className='div1'>  
-     <Link to="/Teacher">
+     <Link to="/teacher">
             <button>Instructor</button>
           </Link>
-         <Link to="/Student">
+         <Link to="/student">
             <button>Student</button>
           </Link>
        
